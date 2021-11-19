@@ -11,7 +11,7 @@ class MyWidget(QMainWindow):
         self.run()
 
     def run(self):
-        self.label.setText('ааааааааааааааааааааааааа')
+        self.label.setText('')
 
 
 if __name__ == '__main__':
